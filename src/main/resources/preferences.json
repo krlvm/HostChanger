@@ -1,0 +1,17 @@
+[
+  {
+    "key": "fake_host",
+    "type": "string",
+    "defaultValue": "example.com"
+  },
+  {
+    "key": "fake_http",
+    "type": "checkbox",
+    "defaultValue": false
+  },
+  {
+    "key": "fake_https",
+    "type": "checkbox",
+    "defaultValue": true
+  }
+]
